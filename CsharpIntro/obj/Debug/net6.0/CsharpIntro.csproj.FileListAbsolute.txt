@@ -1,0 +1,15 @@
+C:\Users\hsyna\Desktop\PB503-TaskDays\CsharpIntro\CsharpIntro\bin\Debug\net6.0\CsharpIntro.exe
+C:\Users\hsyna\Desktop\PB503-TaskDays\CsharpIntro\CsharpIntro\bin\Debug\net6.0\CsharpIntro.deps.json
+C:\Users\hsyna\Desktop\PB503-TaskDays\CsharpIntro\CsharpIntro\bin\Debug\net6.0\CsharpIntro.runtimeconfig.json
+C:\Users\hsyna\Desktop\PB503-TaskDays\CsharpIntro\CsharpIntro\bin\Debug\net6.0\CsharpIntro.dll
+C:\Users\hsyna\Desktop\PB503-TaskDays\CsharpIntro\CsharpIntro\bin\Debug\net6.0\CsharpIntro.pdb
+C:\Users\hsyna\Desktop\PB503-TaskDays\CsharpIntro\CsharpIntro\obj\Debug\net6.0\CsharpIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsyna\Desktop\PB503-TaskDays\CsharpIntro\CsharpIntro\obj\Debug\net6.0\CsharpIntro.AssemblyInfoInputs.cache
+C:\Users\hsyna\Desktop\PB503-TaskDays\CsharpIntro\CsharpIntro\obj\Debug\net6.0\CsharpIntro.AssemblyInfo.cs
+C:\Users\hsyna\Desktop\PB503-TaskDays\CsharpIntro\CsharpIntro\obj\Debug\net6.0\CsharpIntro.csproj.CoreCompileInputs.cache
+C:\Users\hsyna\Desktop\PB503-TaskDays\CsharpIntro\CsharpIntro\obj\Debug\net6.0\CsharpIntro.sourcelink.json
+C:\Users\hsyna\Desktop\PB503-TaskDays\CsharpIntro\CsharpIntro\obj\Debug\net6.0\CsharpIntro.dll
+C:\Users\hsyna\Desktop\PB503-TaskDays\CsharpIntro\CsharpIntro\obj\Debug\net6.0\refint\CsharpIntro.dll
+C:\Users\hsyna\Desktop\PB503-TaskDays\CsharpIntro\CsharpIntro\obj\Debug\net6.0\CsharpIntro.pdb
+C:\Users\hsyna\Desktop\PB503-TaskDays\CsharpIntro\CsharpIntro\obj\Debug\net6.0\CsharpIntro.genruntimeconfig.cache
+C:\Users\hsyna\Desktop\PB503-TaskDays\CsharpIntro\CsharpIntro\obj\Debug\net6.0\ref\CsharpIntro.dll
